@@ -14,9 +14,10 @@ const RESOURCES = {
 "splash/img/light-1x.png": "c25102d6537ae49a57d64d11182b3101",
 "splash/splash.js": "c6a271349a0cd249bdb6d3c4d12f5dcf",
 "splash/style.css": "628734e661aac7a84ba18068a57bd7f2",
-"index.html": "f4941553caeaa073b4d1cecc10d539d7",
-"/": "f4941553caeaa073b4d1cecc10d539d7",
-"main.dart.js": "ee76ad844c2b18186163d3677a514fe8",
+"index.html": "d4048b32cfdab07f2b40181481d99576",
+"/": "d4048b32cfdab07f2b40181481d99576",
+"main.dart.js": "5eb1d37ec8857a3f6fcee2aae6b155c4",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -43,7 +44,11 @@ const RESOURCES = {
 "assets/assets/icon/ic_logout.png": "b2408d27bf0e49ec2907ae7394fbc9cc",
 "assets/assets/icon/ic_settings.png": "2a2bbb7210b4147d937bdc29b040435d",
 "assets/assets/icon/ic_person.png": "2e319bdbf0dd462e0de5c094d85ee968",
-"assets/assets/icon/ic_terms.png": "a53b043ff81048c3bc39cdb1ffecbf1c"
+"assets/assets/icon/ic_terms.png": "a53b043ff81048c3bc39cdb1ffecbf1c",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
